@@ -16,3 +16,5 @@ Here's what the root folder consists of:
 6. Corner detection
 
 7. Face and Eye Detection
+
+Go through all the tutorials thoroughly to get a better understanding of working of Open CV.
