@@ -1,5 +1,5 @@
 # OpenCV
-All OpenCV projects from very basics. 
+OpenCv Basics to get started with, beginner friendly.
 To learn more about OpenCV, refer to this link https://docs.opencv.org/master/d9/df8/tutorial_root.html
 Here's what the root folder consists of:
 
