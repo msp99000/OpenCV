@@ -18,4 +18,4 @@ Here's a list of what's inside this repo:
 
 ### 7. Face and Eye Detection
 
-Go through all the tutorials thoroughly to get a better understanding of working of Open CV.
+and more comming soon.......
